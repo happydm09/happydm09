@@ -14,3 +14,10 @@
 <img src="https://img.shields.io/badge/Lua-gray?style=flat&logo=Lua&logoColor=#2C2D72"/>
 
 </div>
+
+```Python
+ def My_Self():
+   name = 'DM'
+   email = 'happydm09@naver.com'
+   web = 'dm-09.github.io'
+```
