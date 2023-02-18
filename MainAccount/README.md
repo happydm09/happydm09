@@ -3,8 +3,6 @@
 <div align=center>
 <h2>Introduce✨️</h2>
 
-<img src='https://vo.la/tgBJ4' height=50%></img>
-
 <br>
 <h2>Skill💫</h2>
 
