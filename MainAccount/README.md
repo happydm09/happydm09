@@ -1,8 +1,6 @@
-> <h2>DM</h2>
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=HI&desc=I'm+DM&fontSize=45&rotate=8&fontAlignY=2&fontAlign=85&descAlignY=30&descAlign=90&&animation=twinkling)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDM-09&count_bg=%2322A5DE&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://github.com/DM-09)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dongmin)](https://solved.ac/dongmin)
-<a href='https://github.com/happydm09'><img src="https://img.shields.io/badge/2nd-gray?style=flat&logo=GitHub&logoColor=white"/></a>
+<h2 align=center>Introduce</h2>
 
 ```Python
  def My_Self():
