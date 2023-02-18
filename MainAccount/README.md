@@ -16,10 +16,12 @@
 <div align=center>
 <h2>Skill💫</h2>
 
-<img src="https://img.shields.io/badge/Python-gray?style=flat&logo=Python&logoColor=#3776AB"/>
-<img src="https://img.shields.io/badge/JS-gray?style=flat&logo=JavaScript&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/HTML-gray?style=flat&logo=HTML5&logoColor=#E34F26"/>
-<img src="https://img.shields.io/badge/Lua-gray?style=flat&logo=Lua&logoColor=#2C2D72"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JS-yellow?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=Lua&logoColor=white"/>
+<br><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
 
 <br>
 
