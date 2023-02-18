@@ -9,4 +9,13 @@
    web = 'dm-09.github.io'
 ```
 
-<br><h2 align=center>Skill💫</h2>
+<br>
+<div align=center>
+<h2>Skill💫</h2>
+
+<img src="https://img.shields.io/badge/Python-gray?style=flat&logo=Python&logoColor=#3776AB"/>
+<img src="https://img.shields.io/badge/JS-gray?style=flat&logo=JavaScript&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/HTML-gray?style=flat&logo=HTML5&logoColor=#E34F26"/>
+<img src="https://img.shields.io/badge/Lua-gray?style=flat&logo=Lua&logoColor=#2C2D72"/>
+
+</div>
