@@ -4,18 +4,11 @@
 <h2>✨️DM-09✨️</h2>
 </div>
 
-```Python
- def My_Self():
-   name = 'DM'
-   email = 'happydm09@naver.com'
-   web = 'dm-09.github.io'
-```
-
 <div align=center>
 <a href='mailto:happydm09@naver.com'><img src="https://img.shields.io/badge/Email-gray?style=flat&logo=Gmail&logoColor=#2C2D72"/></a>
 <a href='https://github.com/happydm09'><img src="https://img.shields.io/badge/2nd-gray?style=flat&logo=Github&logoColor=#2C2D72"/></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDM-09&count_bg=%23727272&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=%E2%A0%80&edge_flat=false"/></a>
 <a href='https://solved.ac/dongmin'><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dongmin"/></a>
 
-Hi I'm DM!
+Hi, I'm <b>DM</b> who 13 years old. and i dream to become programmer. if you interest in me, contect me to email!
 </div>
